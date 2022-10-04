@@ -4,7 +4,7 @@
 
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/shivanshdgr8/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn Badge"/>
+    <img src="./linkedin.png" width="40px" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discord.com/users/748552378504052878">
     <img src="./discord.png" width="40px" alt="Discord Badge"/>
