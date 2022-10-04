@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./pfp" width="100"/>
+  <img src="./pfp" width="100px"/>
 </div>
 
 <div id="badges", align="center">
@@ -26,7 +26,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 I am a Student <img src="https://media.giphy.com/media/RLheOHSbMj4b0JfQ1k/giphy.gif" width="30"> at VIT University.
 
