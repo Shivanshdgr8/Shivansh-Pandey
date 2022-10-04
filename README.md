@@ -17,7 +17,7 @@
 
 <h1 align="center">
   Hello World!
-  <img src="https://media.giphy.com/media/RLheOHSbMj4b0JfQ1k/giphy.gif" width="40px"/>
+  <img src="https://media.giphy.com/media/RqCkhwVvVRWOOrDoI6/giphy.gif" width="40px"/>
 </h1>
 
 <div align="center">
