@@ -4,7 +4,7 @@
 
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/shivanshdgr8/">
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fvideohive.img.customer.envatousercontent.com%2Ffiles%2F231670384%2FBlue%2520Electric%2520Linkedin%2520Icon%2520Preview%2520Image.png%3Fauto%3Dcompress%252Cformat%26fit%3Dcrop%26crop%3Dtop%26max-h%3D8000%26max-w%3D590%26s%3D9dd449e59def92bb9cf5d18e472a714d&imgrefurl=https%3A%2F%2Fvideohive.net%2Fitem%2Fblue-electric-linkedin-icon%2F20464749&tbnid=rSLJSdgYhLE5wM&vet=12ahUKEwjiw87N8Mb6AhUkT3wKHYxKDMwQMygQegUIARDcAQ..i&docid=CD7AEZ3FwhGW-M&w=590&h=332&q=linkedin%20neon&ved=2ahUKEwjiw87N8Mb6AhUkT3wKHYxKDMwQMygQegUIARDcAQ" width="40px" alt="LinkedIn Badge"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discord.com/users/748552378504052878">
     <img src="./discord.png" width="40px" alt="Discord Badge"/>
