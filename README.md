@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./pfp" width="100px"/>
+  <img src="./pfp.png" width="100px"/>
 </div>
 
 <div id="badges", align="center">
