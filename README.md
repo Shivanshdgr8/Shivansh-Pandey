@@ -9,6 +9,8 @@
   <a href="https://discord.com/users/748552378504052878">
     <img src="./discord.png" width="40px" alt="Discord Badge"/>
   </a>
+<a href="https://twitter.com/shivanshdgr8">
+<img src="" width="40px" alt="Twitter Badge"/>
 </div>
 
 <div id="counter", align="center">
