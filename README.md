@@ -10,7 +10,7 @@
     <img src="./discord.png" width="40px" alt="Discord Badge"/>
   </a>
 <a href="https://twitter.com/shivanshdgr8">
-<img src=".ltwitter.png" width="40px" alt="Twitter Badge"/>
+<img src="./twitter.png" width="40px" alt="Twitter Badge"/>
 </div>
 
 <div id="counter", align="center">
